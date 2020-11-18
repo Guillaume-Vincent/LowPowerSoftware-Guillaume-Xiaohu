@@ -1,0 +1,10 @@
+stm32l4xx_ll_bus.h:565:22:LL_AHB2_GRP1_EnableClock	24	static
+stm32l4xx_ll_gpio.h:286:22:LL_GPIO_SetPinMode	48	static,ignoring_inline_asm
+stm32l4xx_ll_gpio.h:355:22:LL_GPIO_SetPinOutputType	24	static
+stm32l4xx_ll_gpio.h:876:26:LL_GPIO_IsInputPinSet	16	static
+stm32l4xx_ll_gpio.h:957:22:LL_GPIO_SetOutputPin	16	static
+stm32l4xx_ll_gpio.h:986:22:LL_GPIO_ResetOutputPin	16	static
+gpio.c:13:6:GPIO_init	8	static
+gpio.c:29:6:LED_GREEN	16	static
+gpio.c:36:6:SQUARE_SIGNAL	16	static
+gpio.c:44:5:BLUE_BUTTON	8	static
